@@ -3,9 +3,6 @@
 👉 Meu nome é Eros Cardozo de Assis e tenho 29 anos. Estou atualmente em uma transição de carreira, passando do campo do direito para o mundo da programação.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erosgremio&hide_progress=true)
-
-
 
 
 ## Tecnologias que utilizo 
